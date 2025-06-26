@@ -4,8 +4,8 @@ A simple url masking tool
 <h3 align="left">INSTALL :</h3>
 
 ````bash
-pkg update && upgrade -y
-pkg install python -y
+sudo apt update && upgrade -y
+sudo install python -y
 git clone https://github.com/ShTasrif/MaskURL
 ````
 
